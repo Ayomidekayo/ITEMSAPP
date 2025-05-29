@@ -1,0 +1,18 @@
+{
+  "name": "itemsapp",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Ayo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "exprss": "^0.0.1-security",
+    "nodemon": "^3.1.10"
+  }
+}
